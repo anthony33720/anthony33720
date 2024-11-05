@@ -15,11 +15,13 @@ I'm currently diving deeper into Java and Spring Boot while also expanding my fr
 🌟 Featured Projects
 
 Private Event Calculator
+
 Technologies: Java, React, Vite, Docker, SQL
 Description: A project to streamline private event planning and budgeting, with ongoing improvements.
 
 
 My Website Resume (coming soon)
+
 A personal site to showcase my projects, skills, and professional journey.
 
 📚 Education
